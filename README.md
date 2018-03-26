@@ -6,12 +6,10 @@ http://swagger.io/
 http://www.yaml.org/start.html   
 
 ## Build & Dependency
-### General
 https://jenkins.io/  
 https://www.docker.com/  
 https://hub.docker.com/  
 https://kubernetes.io/  
-
 ### Javascript
 https://www.npmjs.com/  
 http://jspm.io/  
@@ -22,7 +20,6 @@ https://babeljs.io/
 http://yeoman.io/  
 https://yarnpkg.com/en/  
 https://webpack.js.org/  
-
 ### Java
 http://gruntjs.com/  
 http://maven.apache.org/  
@@ -76,3 +73,44 @@ https://kotlinlang.org/
 http://subversion.apache.org/  
 http://git-scm.com/ (http://gitref.org/basic/)  
 
+## Testing
+http://www.sonarqube.org/downloads/  
+### Javascript 
+http://karma-runner.github.io/0.12/index.html  
+http://jasmine.github.io/  
+https://angular.github.io/protractor/#/  
+http://sinonjs.org/
+
+### Java
+http://jbehave.org/  
+http://code.google.com/p/mockito/  
+http://www.unitils.org/summary.html  
+https://developers.google.com/java-dev-tools/codepro/doc/  
+http://spockframework.github.io/spock/docs/1.1-rc-2/index.html  
+
+## Web
+https://www.javascript.com/  
+http://www.typescriptlang.org/  
+http://www.json.org/  
+http://jquery.com/ (http://jqueryui.com/)  
+https://angularjs.org/ (https://angular-ui.github.io/)  
+https://angular.io/  
+https://reactjs.org/  
+http://backbonejs.org/  
+http://getbootstrap.com/  
+http://lesscss.org/  
+http://sass-lang.com/  
+http://www.playframework.com/  
+http://wicket.apache.org/  
+http://docs.grails.org/3.2.x/guide/  
+http://www.polymer-project.org/  
+http://electron.atom.io/  
+https://lodash.com/  
+http://underscorejs.org/  
+http://redux.js.org/  
+https://developer.mozilla.org/en/docs/Web/API/Service_Worker_API  
+https://www.w3.org/TR/web-animations-1/#introduction  
+https://material-ui-next.com/getting-started/installation/  
+http://schema.org/
+http://johnny-five.io  
+https://threejs.org  
