@@ -1,5 +1,4 @@
 # Technologies
-This repo contains links to various technologies that can be used for building software applications
 
 ## API
 http://swagger.io/  
