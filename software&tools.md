@@ -1,10 +1,5 @@
 
-## Apps
-https://waffle.io/  
-http://jmeter.apache.org/  
-http://www.telerik.com/fiddler  
-http://squid.diladele.com/#guard  
-http://sdkman.io/index.html
+# Software & Tools
 
 ## Productivity
 https://slack.com/  
@@ -43,3 +38,10 @@ https://cve.mitre.org/
 https://www.cloudflare.com/  
 http://www.acunetix.com/  
 https://portswigger.net/burp/  
+
+## Apps
+https://waffle.io/  
+http://jmeter.apache.org/  
+http://www.telerik.com/fiddler  
+http://squid.diladele.com/#guard  
+http://sdkman.io/index.html
