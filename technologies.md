@@ -27,7 +27,6 @@ http://gradle.org/
 ## Cloud
 ### AWS
 https://aws.amazon.com/  
-
 ### Google
 https://developers.google.com/  
 https://cloud.google.com/container-engine/  
@@ -67,6 +66,7 @@ http://expressjs.com/
 http://wso2.com/  
 http://vertx.io/  
 https://kotlinlang.org/  
+https://freemarker.apache.org/  
 
 ## Source Control
 http://subversion.apache.org/  
@@ -79,7 +79,6 @@ http://karma-runner.github.io/0.12/index.html
 http://jasmine.github.io/  
 https://angular.github.io/protractor/#/  
 http://sinonjs.org/
-
 ### Java
 http://jbehave.org/  
 http://code.google.com/p/mockito/  
