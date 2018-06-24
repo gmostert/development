@@ -19,6 +19,7 @@ https://babeljs.io/
 http://yeoman.io/  
 https://yarnpkg.com/en/  
 https://webpack.js.org/  
+https://greenkeeper.io/  
 ### Java
 http://gruntjs.com/  
 http://maven.apache.org/  
@@ -56,6 +57,7 @@ https://www.android.com/
 http://cordova.apache.org/  
 http://app.phonegap.com/  
 http://ionicframework.com/  
+https://www.nativescript.org/  
 
 ## Server Side
 https://www.java.com/en/  
