@@ -1,9 +1,5 @@
 # Technologies
 
-## API
-http://swagger.io/  
-http://www.yaml.org/start.html   
-
 ## Build & Dependency
 https://jenkins.io/  
 https://www.docker.com/  
