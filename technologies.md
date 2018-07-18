@@ -1,6 +1,6 @@
 # Technologies
 
-## Build & Dependency
+## Build/Deploy/Package
 https://jenkins.io/  
 https://www.docker.com/  
 https://hub.docker.com/  
@@ -21,7 +21,7 @@ http://gruntjs.com/
 http://maven.apache.org/  
 http://gradle.org/  
 
-## Cloud
+## Cloud Services
 ### AWS
 https://aws.amazon.com/  
 ### Google
