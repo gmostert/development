@@ -19,6 +19,8 @@ https://www.sourcetreeapp.com/
 ## API
 http://www.soapui.org/  
 https://www.getpostman.com/  
+http://swagger.io/  
+http://www.yaml.org/start.html   
 
 ## Design
 https://www.lucidchart.com/  
