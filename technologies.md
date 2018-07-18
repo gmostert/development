@@ -1,7 +1,8 @@
 # Technologies
 
-## Build/Deploy/Package
+## Build/Deploy/Package/Release
 https://jenkins.io/  
+https://octopus.com/  
 https://www.docker.com/  
 https://hub.docker.com/  
 https://kubernetes.io/  
