@@ -35,6 +35,9 @@ http://www.jetbrains.com/webstorm/
 https://code.visualstudio.com/  
 http://brackets.io/  
 
+## Online Editors
+https://stackblitz.com  
+
 ## Security
 https://www.owasp.org/index.php/Main_Page  
 https://cve.mitre.org/  
@@ -47,7 +50,4 @@ https://waffle.io/
 http://jmeter.apache.org/  
 http://www.telerik.com/fiddler  
 http://squid.diladele.com/#guard  
-http://sdkman.io/index.html
-
-## Online Editors
-https://stackblitz.com
+http://sdkman.io/index.html  
