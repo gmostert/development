@@ -1,4 +1,31 @@
-# Technologies
+# Web
+
+## Frameworks
+https://www.javascript.com/  
+http://www.typescriptlang.org/  
+http://www.json.org/  
+http://jquery.com/ (http://jqueryui.com/)  
+https://angularjs.org/ (https://angular-ui.github.io/)  
+https://angular.io/  
+https://reactjs.org/  
+http://backbonejs.org/  
+http://getbootstrap.com/  
+http://lesscss.org/  
+http://sass-lang.com/  
+http://www.playframework.com/  
+http://wicket.apache.org/  
+http://docs.grails.org/3.2.x/guide/  
+http://www.polymer-project.org/  
+http://electron.atom.io/  
+https://lodash.com/  
+http://underscorejs.org/  
+http://redux.js.org/  
+https://developer.mozilla.org/en/docs/Web/API/Service_Worker_API  
+https://www.w3.org/TR/web-animations-1/#introduction  
+https://material-ui-next.com/getting-started/installation/  
+http://schema.org/
+http://johnny-five.io  
+https://threejs.org  
 
 ## Build/Deploy/Package/Release
 https://jenkins.io/  
@@ -38,17 +65,6 @@ https://www.mongodb.org/
 http://neo4j.com/  
 https://redis.io/  
 
-## Game Engine
-http://unity3d.com/  
-http://www.blender.org/  
-https://www.scirra.com/construct2  
-
-## Internet of Things
-http://www.arduino.cc/  
-http://www.eclipse.org/kura/  
-http://iot.eclipse.org/java/  
-https://api.ai/  
-
 ## Mobile
 https://www.android.com/  
 http://cordova.apache.org/  
@@ -84,30 +100,3 @@ http://code.google.com/p/mockito/
 http://www.unitils.org/summary.html  
 https://developers.google.com/java-dev-tools/codepro/doc/  
 http://spockframework.github.io/spock/docs/1.1-rc-2/index.html  
-
-## Web
-https://www.javascript.com/  
-http://www.typescriptlang.org/  
-http://www.json.org/  
-http://jquery.com/ (http://jqueryui.com/)  
-https://angularjs.org/ (https://angular-ui.github.io/)  
-https://angular.io/  
-https://reactjs.org/  
-http://backbonejs.org/  
-http://getbootstrap.com/  
-http://lesscss.org/  
-http://sass-lang.com/  
-http://www.playframework.com/  
-http://wicket.apache.org/  
-http://docs.grails.org/3.2.x/guide/  
-http://www.polymer-project.org/  
-http://electron.atom.io/  
-https://lodash.com/  
-http://underscorejs.org/  
-http://redux.js.org/  
-https://developer.mozilla.org/en/docs/Web/API/Service_Worker_API  
-https://www.w3.org/TR/web-animations-1/#introduction  
-https://material-ui-next.com/getting-started/installation/  
-http://schema.org/
-http://johnny-five.io  
-https://threejs.org  
