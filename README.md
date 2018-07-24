@@ -1,8 +1,14 @@
 # Development
 This repo contains links to various technologies/tools etc, that can be used for building software applications.
 
-## Technologies
-https://github.com/gmostert/development/blob/master/technologies.md
+## Tooling
+https://github.com/gmostert/development/blob/master/tools.md
 
-## Software & Tools
-https://github.com/gmostert/development/blob/master/software&tools.md
+## Web
+https://github.com/gmostert/development/blob/master/web.md
+
+## IoT
+https://github.com/gmostert/development/blob/master/iot.md
+
+## Games
+https://github.com/gmostert/development/blob/master/games.md
