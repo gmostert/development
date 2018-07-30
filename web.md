@@ -51,6 +51,7 @@ http://maven.apache.org/
 http://gradle.org/  
 
 ## Cloud Services
+
 ### AWS
 https://aws.amazon.com/  
 ### Google
@@ -90,11 +91,14 @@ http://git-scm.com/ (http://gitref.org/basic/)
 
 ## Testing
 http://www.sonarqube.org/downloads/  
+
 ### Javascript 
 http://karma-runner.github.io/0.12/index.html  
 http://jasmine.github.io/  
 https://angular.github.io/protractor/#/  
-http://sinonjs.org/
+http://sinonjs.org/  
+https://github.com/garris/BackstopJS  
+
 ### Java
 http://jbehave.org/  
 http://code.google.com/p/mockito/  
