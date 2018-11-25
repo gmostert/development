@@ -34,6 +34,7 @@ https://octopus.com/
 https://www.docker.com/  
 https://hub.docker.com/  
 https://kubernetes.io/  
+https://gitversion.readthedocs.io/en/latest/  
 ### Javascript
 https://www.npmjs.com/  
 http://jspm.io/  
