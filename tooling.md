@@ -9,6 +9,8 @@ https://conemu.github.io/
 http://mobaxterm.mobatek.net/download-home-edition.html  
 https://www.cygwin.com/  
 https://www.virtualbox.org/  
+https://notepad-plus-plus.org/  
+https://github.com/pnedev/compare-plugin/releases  
 
 ## Source Control
 https://desktop.github.com/  
