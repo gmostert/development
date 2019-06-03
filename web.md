@@ -29,18 +29,13 @@ https://material-ui-next.com/getting-started/installation/
 http://johnny-five.io  
 https://threejs.org  
 
-## Tooling
+## Repository Tooling
+http://yeoman.io/  
+https://greenkeeper.io/  
 https://nx.dev/  
 https://github.com/lerna/lerna  
 
-## CD/CI
-https://jenkins.io/  
-https://travis-ci.org/  
-https://octopus.com/  
-https://www.docker.com/  
-https://hub.docker.com/  
-https://kubernetes.io/  
-https://gitversion.readthedocs.io/en/latest/  
+## Build
 
 ### Javascript
 https://www.npmjs.com/  
@@ -49,10 +44,8 @@ http://bower.io/
 http://gulpjs.com/  
 http://browserify.org/  
 https://babeljs.io/  
-http://yeoman.io/  
 https://yarnpkg.com/en/  
 https://webpack.js.org/  
-https://greenkeeper.io/  
 
 ### Java
 http://gruntjs.com/  
@@ -94,10 +87,6 @@ http://wso2.com/
 http://vertx.io/  
 https://kotlinlang.org/  
 https://freemarker.apache.org/  
-
-## Source Control
-http://subversion.apache.org/  
-http://git-scm.com/ (http://gitref.org/basic/)  
 
 ## Testing
 http://www.sonarqube.org/downloads/  
