@@ -1,17 +1,20 @@
-# Web
+# Web Development
 
-## Frameworks
+## Languages
 https://www.javascript.com/  
 http://www.typescriptlang.org/  
 http://www.json.org/  
+http://lesscss.org/  
+http://sass-lang.com/  
+http://schema.org/  
+
+## Frameworks
 http://jquery.com/ (http://jqueryui.com/)  
 https://angularjs.org/ (https://angular-ui.github.io/)  
 https://angular.io/  
 https://reactjs.org/  
 http://backbonejs.org/  
 http://getbootstrap.com/  
-http://lesscss.org/  
-http://sass-lang.com/  
 http://www.playframework.com/  
 http://wicket.apache.org/  
 http://docs.grails.org/3.2.x/guide/  
@@ -23,11 +26,14 @@ http://redux.js.org/
 https://developer.mozilla.org/en/docs/Web/API/Service_Worker_API  
 https://www.w3.org/TR/web-animations-1/#introduction  
 https://material-ui-next.com/getting-started/installation/  
-http://schema.org/
 http://johnny-five.io  
 https://threejs.org  
 
-## Build/Deploy/Package/Release
+## Tooling
+https://nx.dev/  
+https://github.com/lerna/lerna  
+
+## CD/CI
 https://jenkins.io/  
 https://travis-ci.org/  
 https://octopus.com/  
@@ -35,6 +41,7 @@ https://www.docker.com/
 https://hub.docker.com/  
 https://kubernetes.io/  
 https://gitversion.readthedocs.io/en/latest/  
+
 ### Javascript
 https://www.npmjs.com/  
 http://jspm.io/  
@@ -46,6 +53,7 @@ http://yeoman.io/
 https://yarnpkg.com/en/  
 https://webpack.js.org/  
 https://greenkeeper.io/  
+
 ### Java
 http://gruntjs.com/  
 http://maven.apache.org/  
@@ -55,6 +63,7 @@ http://gradle.org/
 
 ### AWS
 https://aws.amazon.com/  
+
 ### Google
 https://developers.google.com/  
 https://cloud.google.com/container-engine/  
@@ -99,6 +108,7 @@ http://jasmine.github.io/
 https://angular.github.io/protractor/#/  
 http://sinonjs.org/  
 https://github.com/garris/BackstopJS  
+https://www.cypress.io/  
 
 ### Java
 http://jbehave.org/  
