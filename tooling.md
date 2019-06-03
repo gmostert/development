@@ -13,10 +13,24 @@ https://notepad-plus-plus.org/
 https://github.com/pnedev/compare-plugin/releases  
 
 ## Source Control
+http://subversion.apache.org/  
+http://git-scm.com/ (http://gitref.org/basic/)  
+
+## CD/CI
+https://jenkins.io/  
+https://travis-ci.org/  
+https://octopus.com/  
+https://www.docker.com/  
+https://hub.docker.com/  
+https://kubernetes.io/  
+https://gitversion.readthedocs.io/en/latest/  
+
+## Git Client
 https://desktop.github.com/  
 https://www.gitkraken.com/  
 https://about.gitlab.com/  
 https://www.sourcetreeapp.com/  
+https://git-fork.com/  
 
 ## API
 http://www.soapui.org/  
