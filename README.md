@@ -3,6 +3,7 @@ This repo contains links to various technologies/tools etc, that can be used for
 
 * [Tooling](./tooling.md)
 * [Web](./web.md)
+* [API](./api.md)
 * [IoT](./iot.md)
 * [Games](./games.md)
 
