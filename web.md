@@ -1,4 +1,4 @@
-# Web Development
+# Web Development (Node)
 
 ## Languages
 https://www.javascript.com/  
@@ -36,8 +36,6 @@ https://nx.dev/
 https://github.com/lerna/lerna  
 
 ## Build
-
-### Javascript
 https://www.npmjs.com/  
 http://jspm.io/  
 http://bower.io/  
@@ -46,11 +44,6 @@ http://browserify.org/
 https://babeljs.io/  
 https://yarnpkg.com/en/  
 https://webpack.js.org/  
-
-### Java
-http://gruntjs.com/  
-http://maven.apache.org/  
-http://gradle.org/  
 
 ## Cloud Services
 
@@ -90,18 +83,9 @@ https://freemarker.apache.org/
 
 ## Testing
 http://www.sonarqube.org/downloads/  
-
-### Javascript 
 http://karma-runner.github.io/0.12/index.html  
 http://jasmine.github.io/  
 https://angular.github.io/protractor/#/  
 http://sinonjs.org/  
 https://github.com/garris/BackstopJS  
 https://www.cypress.io/  
-
-### Java
-http://jbehave.org/  
-http://code.google.com/p/mockito/  
-http://www.unitils.org/summary.html  
-https://developers.google.com/java-dev-tools/codepro/doc/  
-http://spockframework.github.io/spock/docs/1.1-rc-2/index.html  
