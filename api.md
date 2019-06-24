@@ -9,7 +9,7 @@ https://aws.amazon.com/corretto/
 https://spring.io/  
 
 ## Persistance
-https://aws.amazon.com/dynamodb/ . 
+https://aws.amazon.com/dynamodb/  
 
 ## Build
 http://gruntjs.com/  
@@ -21,7 +21,7 @@ http://jbehave.org/
 http://code.google.com/p/mockito/  
 http://www.unitils.org/summary.html  
 https://developers.google.com/java-dev-tools/codepro/doc/  
-http://spockframework.github.io/spock/docs/1.1-rc-2/index.html   
+http://spockframework.org/ 
 
 ## Gateway
 https://konghq.com/kong/  
