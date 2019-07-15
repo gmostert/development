@@ -24,4 +24,5 @@ https://developers.google.com/java-dev-tools/codepro/doc/
 http://spockframework.org/ 
 
 ## Gateway
+https://swagger.io/docs/specification/about/  
 https://konghq.com/kong/  
