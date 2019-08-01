@@ -5,8 +5,9 @@ https://go.java/index.html?intcmp=gojava-banner-java-com
 https://sdkman.io/install  
 https://aws.amazon.com/corretto/  
 
-## Frameworks
+## Frameworks/Libraries
 https://spring.io/  
+https://projectlombok.org/  
 
 ## Persistance
 https://aws.amazon.com/dynamodb/  
@@ -24,5 +25,7 @@ https://developers.google.com/java-dev-tools/codepro/doc/
 http://spockframework.org/ 
 
 ## Gateway
-https://swagger.io/docs/specification/about/  
 https://konghq.com/kong/  
+
+## Documentation
+https://swagger.io/specification/  
