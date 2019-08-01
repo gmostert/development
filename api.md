@@ -1,6 +1,6 @@
 # API Development
 
-## Languages (Java)
+## Java SDK
 https://go.java/index.html?intcmp=gojava-banner-java-com  
 https://sdkman.io/install  
 https://aws.amazon.com/corretto/  
